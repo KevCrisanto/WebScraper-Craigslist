@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\WebScraper-Craigslist\WebScraper.Test.Unit\bin\Debug\WebScraper.Test.Unit.dll
+C:\Users\Admin\Documents\WebScraper-Craigslist\WebScraper.Test.Unit\bin\Debug\WebScraper.Test.Unit.pdb
+C:\Users\Admin\Documents\WebScraper-Craigslist\WebScraper.Test.Unit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\Documents\WebScraper-Craigslist\WebScraper.Test.Unit\bin\Debug\WebScraper.exe
+C:\Users\Admin\Documents\WebScraper-Craigslist\WebScraper.Test.Unit\bin\Debug\WebScraper.pdb
+C:\Users\Admin\Documents\WebScraper-Craigslist\WebScraper.Test.Unit\obj\Debug\WebScraper.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\WebScraper-Craigslist\WebScraper.Test.Unit\obj\Debug\WebScraper.Test.Unit.dll
+C:\Users\Admin\Documents\WebScraper-Craigslist\WebScraper.Test.Unit\obj\Debug\WebScraper.Test.Unit.pdb
