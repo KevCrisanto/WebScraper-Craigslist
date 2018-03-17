@@ -16,7 +16,7 @@ namespace WebScraper
         {
             try
             {
-                Console.Write("Enter the city to scrape information: ");
+                Console.Write("Enter the city to scrape information from: ");
                 var craigslistCity = Console.ReadLine() ?? string.Empty;
 
                 Console.Write("Enter the CraigList category: ");
@@ -49,13 +49,14 @@ namespace WebScraper
                         foreach (var scrapedElement in scrapedElements)
                         {
                             Console.WriteLine(scrapedElement);
-                        }
+                        };
                     }
                     else
                     {
                         Console.WriteLine("There were no matches for the specified scrape criteria.");
                     }
                 }
+                Console.WriteLine();
             }
             catch (Exception ex)
             {
