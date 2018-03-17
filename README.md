@@ -5,4 +5,4 @@ Simply enter the city and category to start scraping data.
 
 ### Screenshots
 
-![screenshot](photos/screenshots/example.gif)
+![screenshot](screenshots/example.gif)
